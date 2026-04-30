@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Sound Visualizer</string>
+    <string name="microphone_mode">Microphone Mode</string>
+    <string name="concert_mode">Concert Mode</string>
+    <string name="be_host">Be Host</string>
+    <string name="connect_to_host">Connect to Host</string>
+    <string name="back">Back</string>
+    <string name="enter_host_ip">Enter Host IP Address:</string>
+    <string name="connect">Connect</string>
+    <string name="host_ip">Host IP: %s</string>
+    <string name="connecting_to">Conectando a: %s</string>
+    <string name="connected_to">Connected to: %s</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="select_mode">Select Concert Mode</string>
+    <string name="status_disconnected">Estado: Desconectado</string>
+    <string name="disconnected">Desconectado</string>
+
+    <string name="start_host">Iniciar Host</string>
+    <string name="stop_host">Detener Host</string>
+    <string name="host_ip_loading">IP del Host: Cargando...</string>
+    <string name="host_ip_address">IP del Host: %1$s:%2$d</string> <string name="host_ip_address_clients">IP del Host: %1$s:%2$d\nClientes: %3$d</string>
+    <string name="host_running_waiting_clients">Host Corriendo. Esperando clientes...</string>
+    <string name="host_stopped_status">Host Detenido.</string>
+    <string name="press_start_host">Presiona \'Iniciar Host\' para comenzar.</string> <string name="microphone_permission_denied">Permiso de micrófono denegado.</string>
+    <string name="host_ip_not_available">IP del Host: No disponible</string>
+
+</resources>
